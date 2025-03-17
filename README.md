@@ -23,8 +23,8 @@ Una API RESTful moderna para gestión de usuarios, construida con Express.js y M
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/loaiza000/pruebaTecnica-Conteo.git
+cd pruebaTecnica-Conteo
 ```
 
 ### 2️⃣ Instalar dependencias
